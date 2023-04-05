@@ -1,4 +1,4 @@
-# Projeto-Arcade
+# ARCADES GAMES
 Equipe: Victor Hugo Martins Brito e Vitor Hugo Reis
 
 O projeto arcade consiste em desenvolver na linguagem da progamação C os jogos:
